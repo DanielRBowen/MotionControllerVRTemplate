@@ -9,3 +9,5 @@ C:\Program Files\Epic Games\UE_4.21\Templates
 This uses BP from this <a href="https://youtu.be/lMieSD_7nSg" target="_blank">video</a>.
 
 Also, this uses <a href="https://useiconic.com/icons/hand/" target="_blank">open iconic</a> for the template graphic.
+
+There is a better template with dynamic hands and spline movement here: <a href="https://github.com/DanielRBowen/UE4-VRHands-Template" target="_blank">Github Link</a>.
